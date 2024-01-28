@@ -1,5 +1,6 @@
 # HealthCare-Chatbot
-# Healthcare Chatbot
+
+# Not yet completed
 
 ## Overview
 This project implements a healthcare chatbot using FastAPI, LangChain, and Llama 2 Amharic. The chatbot allows users to interact with it in multiple languages, including English and Amharic, to ask questions, schedule appointments, and get information about healthcare-related topics.
